@@ -11,7 +11,7 @@
     {
       "name": "codex-delegator",
       "description": "自动把复杂/高逻辑任务委托给 Codex CLI",
-      "source": ".",
+      "source": "./",
       "category": "skills",
       "version": "1.0.0"
     }
