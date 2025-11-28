@@ -1,14 +1,19 @@
 {
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
   "schemaVersion": 1,
   "name": "codex-delegator",
+  "version": "1.0.0",
   "description": "自动把复杂/高逻辑任务委托给 Codex CLI",
-  "skills": [
+  "owner": {
+    "name": "eddiearc"
+  },
+  "plugins": [
     {
-      "id": "codex-delegator",
       "name": "codex-delegator",
       "description": "自动把复杂/高逻辑任务委托给 Codex CLI",
-      "path": ".",
-      "branch": "main"
+      "source": ".",
+      "category": "skills",
+      "version": "1.0.0"
     }
   ]
 }
