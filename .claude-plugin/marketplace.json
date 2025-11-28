@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "name": "codex-delegator",
+  "description": "自动把复杂/高逻辑任务委托给 Codex CLI",
+  "skills": [
+    {
+      "id": "codex-delegator",
+      "name": "codex-delegator",
+      "description": "自动把复杂/高逻辑任务委托给 Codex CLI",
+      "path": ".",
+      "branch": "main"
+    }
+  ]
+}
